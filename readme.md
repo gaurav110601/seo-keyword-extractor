@@ -38,6 +38,12 @@ python -m spacy download en_core_web_sm
 
 ---
 
+## 📸 Screenshots
+
+![CSR Listing Page](output.jpeg)
+
+---
+
 ## Developer
 
 Gaurav Sharma <br>
